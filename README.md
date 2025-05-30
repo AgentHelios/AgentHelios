@@ -32,7 +32,7 @@ Hi, I'm **AgentHelios**, also known as **Justin Boyd**, a passionate cybersecuri
 
 ### IT & Networking
 - ☁️ Microsoft Introduction to Networking and Cloud Computing
-- 🛠️ Google IT Support (Board Infinity)
+- 🛠️ Google IT Support Professional
 - 💻 Board Infinity Kali Linux Basics
 - 💬 Cisco IT Customer Support Basics
 
