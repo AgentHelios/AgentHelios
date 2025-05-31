@@ -23,6 +23,7 @@ Hi, I'm **AgentHelios**, also known as **Justin Boyd**, a passionate cybersecuri
 ### Cybersecurity
 - 🛡️ CompTIA Security+
 - 🛡️ Google Cybersecurity
+- 🛡️ Microsoft Cybersecurity Analyst
 - 🛡️ Microsoft Cybersecurity Management and Compliance
 - 🛡️ Microsoft Cybersecurity Tools and Technologies
 - 🛡️ Microsoft Cybersecurity Solutions and Microsoft Defender
