@@ -24,6 +24,7 @@ Hi, I'm **AgentHelios**, also known as **Justin Boyd**, a passionate cybersecuri
 - 🛡️ CompTIA Security+
 - 🛡️ Google Cybersecurity
 - 🛡️ Microsoft Cybersecurity Analyst
+- 🛡️ Learn Quest Advanced Network Security
 - 🛡️ Microsoft Cybersecurity Management and Compliance
 - 🛡️ Microsoft Cybersecurity Tools and Technologies
 - 🛡️ Microsoft Cybersecurity Solutions and Microsoft Defender
@@ -34,6 +35,7 @@ Hi, I'm **AgentHelios**, also known as **Justin Boyd**, a passionate cybersecuri
 ### IT & Networking
 - ☁️ Microsoft Introduction to Networking and Cloud Computing
 - 🛠️ Google IT Support Professional
+- 🐍 Google IT Automation with Python
 - 💻 Board Infinity Kali Linux Basics
 - 💬 Cisco IT Customer Support Basics
 
