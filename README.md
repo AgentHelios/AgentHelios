@@ -25,6 +25,8 @@ Hi, I'm **AgentHelios**, also known as **Justin Boyd**, a passionate cybersecuri
 - 🛡️ Google Cybersecurity
 - 🛡️ Microsoft Cybersecurity Analyst
 - 🛡️ Learn Quest Advanced Network Security
+- 🛡️ INFOSEC Cybersecurity Foundations
+- 🛡️ University System of Georgia Cybersecurity: Developing a Program for Your Business
 - 🛡️ Microsoft Cybersecurity Management and Compliance
 - 🛡️ Microsoft Cybersecurity Tools and Technologies
 - 🛡️ Microsoft Cybersecurity Solutions and Microsoft Defender
