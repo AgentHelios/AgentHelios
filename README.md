@@ -1,4 +1,4 @@
-# 🛡️ Justin Boyd | Cybersecurity Portfolio
+# 🛡️ | Cybersecurity Portfolio
 
 **🚀 Cybersecurity Researcher & Analyst | IT Administrator | Security Tool Developer**
 
