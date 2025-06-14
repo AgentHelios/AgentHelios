@@ -7,7 +7,6 @@
 Hi, I'm **AgentHelios**, also known as **Justin Boyd**, a passionate cybersecurity professional specializing in ethical hacking, security tool development, and threat intelligence. I focus on creating efficient tools and workflows to secure systems and outsmart threats. My mission is to contribute to a safer digital world through innovation and analysis.
 
 - 📍 **Location:** USA
-- 📧 **Contact:** [agenthelios@proton.me](mailto:agenthelios@proton.me)
 - 🌐 **GitHub:** [https://github.com/AgentHelios](https://github.com/AgentHelios)
 
 ## 🛠️ Expertise
