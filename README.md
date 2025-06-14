@@ -57,7 +57,7 @@ I'm driven to enhance cybersecurity by developing tools and sharing knowledge th
 
 Let's talk cybersecurity or explore collaboration opportunities!
 
-- 📧 **Email:** [agenthelios@proton.me](mailto:agenthelios@proton.me)
+
 - 💼 **LinkedIn:** [https://linkedin.com/in/justin-boyd-8103a3367](https://linkedin.com/in/justin-boyd-8103a3367)
 
 ---
